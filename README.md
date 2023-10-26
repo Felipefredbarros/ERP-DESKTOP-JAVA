@@ -3,11 +3,11 @@ Sistema ERP para uma loja variejista de roupas. Feito para ampliar conhecimentos
 
 
 RECURSOS
--Cadastro de Clientes persistindo no banco
--Cadastro de Colaboradores da empresa persistindo no banco;
--Cadastro de Fornecedores persistindo no banco;
--Cadastro de Produtos persistindo no banco;
--Movimentação de venda entre um cliente e um colaborador, podendo selecionar os produtos cadastrados por meio de uma carrinho de compra.
+-Cadastro de Clientes persistindo no banco;\n
+-Cadastro de Colaboradores da empresa persistindo no banco;\n
+-Cadastro de Fornecedores persistindo no banco;\n
+-Cadastro de Produtos persistindo no banco;\n
+-Movimentação de venda entre um cliente e um colaborador, podendo selecionar os produtos cadastrados por meio de uma carrinho de compra.\n
 -Relatorio de Clientes cadastrados;
 -Relatorio de Colaboradores cadastrados;
 -Relatorio de Fornecedores cadastrados;
