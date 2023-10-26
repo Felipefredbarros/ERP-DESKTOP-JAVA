@@ -3,6 +3,7 @@ Sistema ERP para uma loja variejista de roupas. Feito para ampliar conhecimentos
 
 
 RECURSOS
+
 -Cadastro de Clientes persistindo no banco;
 
 -Cadastro de Colaboradores da empresa persistindo no banco;
