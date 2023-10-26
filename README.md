@@ -10,10 +10,17 @@ RECURSOS
 -Cadastro de Fornecedores persistindo no banco;
 
 -Cadastro de Produtos persistindo no banco;
+
 -Movimentação de venda entre um cliente e um colaborador, podendo selecionar os produtos cadastrados por meio de uma carrinho de compra.
+
 -Relatorio de Clientes cadastrados;
+
 -Relatorio de Colaboradores cadastrados;
+
 -Relatorio de Fornecedores cadastrados;
+
 -Relatorio de Produtos cadastrados;
+
 -Relatorio das Vendas realizadas;
+
 -Relatorio de Produtos mais Vendidos
