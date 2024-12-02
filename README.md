@@ -1,5 +1,5 @@
 # ERP-DESKTOP-JAVA
-Sistema de controle de estoque com movimento venda para uma loja variejista de roupas. Feito para ampliar conhecimentos em programação em Java + Banco de dados relacional
+Sistema de controle de estoque com movimento venda para uma loja varejista de roupas. Feito para ampliar conhecimentos em programação em Java + Banco de dados relacional
 
 RECURSOS
 
